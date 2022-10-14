@@ -1,0 +1,9 @@
+BUILD
+mbed-os/
+^BUILD$
+^.mbed$
+^compile_commands.json$
+^.clangd$
+^.cache$
+^mbed-os$
+^BSP_DISCO_F746NG$

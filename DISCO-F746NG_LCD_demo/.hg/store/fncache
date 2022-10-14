@@ -1,0 +1,7 @@
+data/mbed-os.lib.i
+data/main.cpp.i
+data/.hgignore.i
+data/LCD_DISCO_F746NG.lib.i
+data/BSP_DISCO_F746NG.lib.i
+data/mbed.bld.i
+data/mbed-src.lib.i
